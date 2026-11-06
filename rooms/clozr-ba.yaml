@@ -1,0 +1,13 @@
+room:
+  id: clozr-ba
+  channel: "#clozr-ba"
+  purpose: "Requirements, solution architecture, estimation, independent validation, internal handoff."
+  agents: [clozr-ba-manager, clozr-requirements-analyst, clozr-solution-architect, clozr-estimation-analyst, clozr-qa-validator]
+  recommended_settings:
+    auto_mode: true
+    bypass_permissions: false
+    who_can_talk: "Human and invited agents"
+    agents_can_manage_agents: false
+  notes:
+    - "Client-facing SOW and internal development handoff are separate artifacts."
+    - "Draft handoff is not implementation authorisation."

@@ -1,0 +1,12 @@
+# Agent Creation Checklist
+- [ ] Create agent in SWITCH.
+- [ ] Set Agent ID and display name from agent file.
+- [ ] Copy description.
+- [ ] Copy full instructions.
+- [ ] Select supported model provider.
+- [ ] Grant minimum required tools.
+- [ ] Keep bypass permissions OFF unless justified.
+- [ ] Save and run harmless test.
+- [ ] Invite to correct room.
+- [ ] Verify room/document access.
+- [ ] Record integration limitations.

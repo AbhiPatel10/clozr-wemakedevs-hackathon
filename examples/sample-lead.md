@@ -1,0 +1,12 @@
+# Sample Lead (Fictional)
+- Lead ID: `LEAD-DEMO-001`
+- Company: Northstar Home Supplies (fictional)
+- Website: `https://example.com` (placeholder only; not a real lead source)
+- Industry: Retail
+- Scenario signal: Human-provided scenario says the business wants to modernise online ordering.
+- Potential fit: E-commerce / inventory / order-management application.
+- Evidence status: Scenario input only; no independent research performed.
+- Confidence: Low until verified.
+- Unknowns: budget, decision-maker, current systems, timeline, integrations.
+- Next step: request discovery context or authorise public research.
+- External contact: Not authorised.

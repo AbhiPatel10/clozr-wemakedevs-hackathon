@@ -1,0 +1,13 @@
+room:
+  id: clozr-sales
+  channel: "#clozr-sales"
+  purpose: "Lead research, qualification, sales strategy, follow-up drafts, meeting coordination, proposal preparation."
+  agents: [clozr-coordinator, clozr-lead-hunter, clozr-lead-qualifier, clozr-followup-manager, clozr-meeting-coordinator, clozr-proposal-agent, clozr-sales-strategist]
+  recommended_settings:
+    auto_mode: true
+    bypass_permissions: false
+    who_can_talk: "Human and invited agents"
+    agents_can_manage_agents: false
+  notes:
+    - "Human approval before external messages, bookings, proposal sending, or commercial commitments."
+    - "Configuration reference for manual setup; not a guaranteed SWITCH import."

@@ -1,0 +1,15 @@
+room:
+  id: clozr-development
+  channel: "#clozr-development"
+  purpose: "Development intake, readiness, planning, implementation tracking, QA coordination, delivery reporting."
+  agents: [clozr-development-manager]
+  future_agents_not_created: [clozr-backend-engineer, clozr-frontend-engineer, clozr-database-architect, clozr-qa-engineer, clozr-devops-engineer, clozr-security-reviewer]
+  recommended_settings:
+    auto_mode: true
+    bypass_permissions: false
+    who_can_talk: "Human and invited agents"
+    agents_can_manage_agents: false
+  notes:
+    - "Only Development Manager is in the current build."
+    - "Do not add future specialists without Human Engineering Lead approval."
+    - "Implementation requires explicit approval."

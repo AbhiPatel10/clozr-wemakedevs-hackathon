@@ -1,0 +1,21 @@
+# CLOZR Project Intake
+- Project ID:
+- Project name:
+- Client / organisation:
+- Project owner:
+- Source opportunity ID:
+- Business problem:
+- Desired outcomes:
+- Stakeholders / roles:
+- Initial scope:
+- Constraints:
+- Integrations:
+- Timeline (source):
+- Budget (source):
+- Confirmed facts:
+- Assumptions:
+- Unknown/client-gated questions:
+- Exclusions:
+- Source documents:
+- Approval state:
+- Next decision:
